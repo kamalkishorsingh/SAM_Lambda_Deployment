@@ -1,6 +1,8 @@
-Using AWS SAM framework deploy Lambda function 
+Using AWS SAM framework deploy Lambda function.
+==================================================
 
-Change bucket name in example.yaml file.
+Change bucket name in example.yaml file
+
 ==========================================
 Create package using command -
 
